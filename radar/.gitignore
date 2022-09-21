@@ -1,0 +1,6 @@
+.DS_Store
+*.pyc
+.env 
+.python-version
+logs/
+dist/
